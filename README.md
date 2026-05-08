@@ -8,7 +8,7 @@ For an executive summary of the data, please view the attached PDF report in thi
 Best, Will and Ben
 
 
-* IMPORTANT NOTE ON SOURCING
+__IMPORTANT NOTE ON SOURCING__
 
 The file used in the data, vehicles.csv, is too large to upload to Github. 
 
